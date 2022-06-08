@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Apr 2022 23:29:30 at http://xvelopers.com/demos/html/paper-panel/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://xvelopers.com/demos/html/paper-panel/index.html -O1 "C:\Users\MM\Desktop\ap\adminpanel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:37:31	Warning: 	Retry after error -4 (Incorrect length (628158 Bytes, 746863 expected)) at link xvelopers.com/demos/html/paper-panel/assets/fonts/paperIcons.eot?8quail (from xvelopers.com/demos/html/paper-panel/assets/css/app.css)
+23:37:31	Warning: 	Retry after error -4 (Incorrect length (494502 Bytes, 631480 expected)) at link xvelopers.com/demos/html/paper-panel/assets/fonts/paperIcons.ttf?8quail (from xvelopers.com/demos/html/paper-panel/assets/css/app.css)
+23:37:31	Warning: 	Retry after error -4 (Incorrect length (445068 Bytes, 631556 expected)) at link xvelopers.com/demos/html/paper-panel/assets/fonts/paperIcons.woff?8quail (from xvelopers.com/demos/html/paper-panel/assets/css/app.css)
+23:37:56	Error: 	"Not Found" (404) at link xvelopers.com/demos/html/paper-panel/assets/img/controls.png (from xvelopers.com/demos/html/paper-panel/assets/css/app.css)
+23:37:56	Error: 	"Not Found" (404) at link xvelopers.com/demos/html/paper-panel/compose.html (from xvelopers.com/demos/html/paper-panel/panel7-inbox.html)
+23:37:58	Error: 	"Not Found" (404) at link xvelopers.com/demos/html/paper-panel/invoice-print.html (from xvelopers.com/demos/html/paper-panel/panel-page-invoice.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 28 seconds : 225 links scanned, 218 files written (16923536 bytes overall) [16957495 bytes received at 33380 bytes/sec], 51520 bytes transferred using HTTP compression in 3 files, ratio 27%, 3.0 requests per connection
+(3 errors, 3 warnings, 0 messages)
